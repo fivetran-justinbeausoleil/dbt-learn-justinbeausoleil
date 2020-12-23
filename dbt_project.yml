@@ -36,8 +36,3 @@ models:
       # Applies to all files under models/example/
     +materialized: table
 
-vars:
-  github_source:
-    github_database: dbt-technical-training
-    github_schema: dbt_justinbeausoleil
-
